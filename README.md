@@ -21,9 +21,12 @@ is worth it, you can buy me a **sushi 🍣** in return.
 
 # Reference / 参考記事
 https://openlayers.org/workshop/en/vectortile/
+
 https://openlayers.org/workshop/en/webgl/
 
-#　こっちに移行か？
+# こっちに移行か？
 https://gunmagisgeek.com/blog/mapboxgl/7029
+
 https://deck.gl/
+
 https://github.com/visgl/deck.gl
